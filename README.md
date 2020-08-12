@@ -50,5 +50,5 @@ Nota: NO SE PERMITE UN ERROR MAYOR AL INDICADO. Existe la posibilidad de llegar 
 
 1. Clonar el repositorio
 2. Abrir index.html
-3. Abrir consola de navegador (browser, ...)
+3. Abrir consola de navegador (Chrome, Firefox ...)
 4. Ingresar parámetros solicitados y verificar resultados en consola
