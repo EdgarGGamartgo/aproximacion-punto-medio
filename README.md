@@ -45,3 +45,10 @@ Ejemplo:
 •Valores Permitidos: 52.45 < Objetivo < 52.55 
 
 Nota: NO SE PERMITE UN ERROR MAYOR AL INDICADO. Existe la posibilidad de llegar al valor objetivo exacto(como la tabla ejemplo que viene en la descripción); en ese momentodebeterminarla función y debe imprimirla cantidad de iteraciones que le llevo al sistema llegar alvalor.
+
+# TEST
+
+1. Clonar el repositorio
+2. Abrir index.html
+3. Abrir consola de navegador (browser, ...)
+4. Ingresar parámetros solicitados y verificar resultados en consola
